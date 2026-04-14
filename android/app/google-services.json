@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "839883909462",
+    "firebase_url": "https://smart-shoe-iot-5030b-default-rtdb.firebaseio.com",
+    "project_id": "smart-shoe-iot-5030b",
+    "storage_bucket": "smart-shoe-iot-5030b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839883909462:android:6db08624e0c60d18468ef7",
+        "android_client_info": {
+          "package_name": "com.example.iot_smartshoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqXlBgdZTv-HFogr39iE1WdzBGmY2HRo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839883909462:android:72638e8e55143197468ef7",
+        "android_client_info": {
+          "package_name": "com.example.smart_shoe_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqXlBgdZTv-HFogr39iE1WdzBGmY2HRo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

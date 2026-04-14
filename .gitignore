@@ -1,0 +1,52 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+*.keystore
+*.jks
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# macOS
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Generated build files
+*.apk
+*.aab
+*.ipa
+
+# Firebase INCLUDED (do not ignore)
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
